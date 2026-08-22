@@ -1,0 +1,3 @@
+payload/*.so
+*.o
+*.zip
