@@ -1,0 +1,22 @@
+# Proprietary/local game files
+game/
+*.apk
+*.obb
+*.rpf
+librdr.so
+libc++_shared.so
+
+# Runtime/cache/work products
+runtime/
+cache/
+work/
+build/
+*.log
+core
+core.*
+
+# Editor/OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
